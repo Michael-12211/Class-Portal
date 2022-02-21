@@ -1,1 +1,12 @@
+This git repository is for the figma model of a courses app developed by Michael Kempe.
+
+This prototype is meant to demo the organization and features of a class portal application built after a process of needfinding and assessment of competition.
+The main goal was to provide an app capable of handling the core interaction between students and with their professors.
+While the professors would be users of this application, profesor-specific features are not included in this demo
+The home page provides access to all courses, and the upcoming deadlines option immediately, which is a major concern of students.
+The course pages provide links to the important course details, including communciation and evaluation matierials
+Each course comes with a student chat room, with additional discussion rooms creatable by the teacher
+Within these rooms, students can text their classmates, or even start calls to talk.
+The section for professors to upload and display notes is organized into cascading folders, while also offering a search bar for easy locating
+Tags can further be created by the professor and associated with each file to allow further organization
 
