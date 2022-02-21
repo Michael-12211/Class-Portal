@@ -1,5 +1,6 @@
 This git repository is for the figma model of a courses app developed by Michael Kempe.
 
+Description:
 This prototype is meant to demo the organization and features of a class portal application built after a process of needfinding and assessment of competition.
 The main goal was to provide an app capable of handling the core interaction between students and with their professors.
 While the professors would be users of this application, profesor-specific features are not included in this demo
@@ -14,3 +15,18 @@ Screenshots cannot be uploaded to this file, though a PDF is incldued in this re
 
 Demo URL: https://www.figma.com/proto/xG3vr8VQDEFqf00Wo5o0FZ/Courses-app-v2?node-id=2%3A158&scaling=contain&page-id=0%3A1&starting-point-node-id=2%3A158 
 Video URL: https://sheridanc-my.sharepoint.com/:v:/g/personal/kempemi_shernet_sheridancollege_ca/EaSMn2IFuWdEr-wEhiTnFswBGkNqwsOnlbApWxkS4FEMvw?e=wgRG8A 
+
+New features:
+- Automatic completion checking and Turnitin option.
+Professors would be able to set dropbox requirements that would alert students if they are about to submit with insufficient files.
+There would also be an option to run a turnitin originality check directly from the submission page
+- Manual deadlines.
+In addition to automaticall handling deadlines for tests and assignments, professors would be able to set raw deadlines that would be visible to students the same way other deadlines are
+- Material tagging feature. 
+Professors can place tags on the uploaded material to allow for more organization and grouping in addition to the normal cascading folders
+- Missed / unsubmitted upcoming deadlines alerts
+Students would be given alerts (in a manner of their choice) when a deadline is about the be missed.
+Many portals already send an alert, but it's not standard for them to only go unmet deadlines or alert the users to such
+- Loading screen tips
+Small tips that could be set by the professor to display periodically while students are waiting.
+They would display when waiting for a virtual classroom to open, test to start, etc.
